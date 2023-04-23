@@ -125,7 +125,7 @@ header{
 // section lastyear-sec
 
 .lastyear-sec{
-    height: 180vh;
+    min-height: 180vh;
     background-color: $color-black;
     padding: 10rem $spaceout;
     position: relative;
@@ -254,7 +254,7 @@ header{
 // section poppybear-sec
 
 .poppybear-sec{
-    height: 200vh;
+    height: 210vh;
     padding: 32rem $spaceout 0 $spaceout;
     position: relative;
     overflow: hidden;
@@ -392,11 +392,4 @@ a{
     to {
         transform: translateX(calc(25% - 3rem));
     }
-}
-
-// mediaqueries
-
-@media only screen and (max-width: 992px){
-
-
 }

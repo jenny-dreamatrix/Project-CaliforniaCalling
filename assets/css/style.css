@@ -102,7 +102,7 @@ header .btn-flex {
 }
 
 .lastyear-sec {
-  height: 180vh;
+  min-height: 180vh;
   background-color: #000;
   padding: 10rem 10rem;
   position: relative;
@@ -221,7 +221,7 @@ header .btn-flex {
 }
 
 .poppybear-sec {
-  height: 200vh;
+  height: 210vh;
   padding: 32rem 10rem 0 10rem;
   position: relative;
   overflow: hidden;
