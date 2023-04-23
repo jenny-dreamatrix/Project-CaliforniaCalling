@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 62.5%;
+    font-weight: 600;
+}
+
+img{
+    max-width: 100%;
+}
+
+h1,
+h2,
+h3{
+    font-family: "Lora";
+}
+
+p,
+a{
+    font-family: "WorkSans";
+}
+
+h1{
+    font-size: 8.8rem;
+    line-height: 7rem;
+}
+
+h2{
+    font-size: 6.4rem;
+}
+
+h3{
+    font-size: 3.2rem;
+    line-height: 3.8rem;
+    margin: 0 0 2rem 0;
+}
+
+p{
+    font-size: 1.6rem;
+    line-height: 3.2rem;
+}
